@@ -2,7 +2,7 @@
 
 ![d093w1z's stats](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-- 🔭 I’m currently working at ![Dassault Systèmes Solutions Lab](3ds.com)
+- 🔭 I’m currently working at [Dassault Systèmes Solutions Lab](https://3ds.com)
 - 🌱 I’m currently learning System Design and Compiler Architectures
 - 👯 I’m looking to collaborate on Open Source projects(Preferably C++ based)
 - 💬 Ask me about Linux & C++
