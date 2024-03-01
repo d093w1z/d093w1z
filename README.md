@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![d093w1z's stats](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![d093w1z's stats](https://komarev.com/ghpvc/?username=d093w1z&style=flat-square)
 
 - 🔭 I’m currently working at [Dassault Systèmes Solutions Lab](https://3ds.com)
 - 🌱 I’m currently learning System Design and Compiler Architectures
