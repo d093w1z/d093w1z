@@ -8,4 +8,6 @@
 - 🌱 I’m currently learning System Design and Compiler Architectures
 - 👯 I’m looking to collaborate on Open Source projects(Preferably C++/Js based)
 - 💬 Ask me about Linux, C++ & Full-stack Web Development
-- 📫 How to reach me: [Gmail](mailto:mukeshtandale171@gmail.com?subject=[GitHub])
+- 📫 How to reach me:
+  - [Gmail](mailto:mukeshtandale171@gmail.com?subject=[GitHub])
+  - [d093w1z.com](d093w1z.com)
